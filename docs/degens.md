@@ -71,6 +71,10 @@ In such a scenario, rETH would be the default wrapper token to be utilized in De
 
 One of the main ways in which stakers can use rETH is to combine it with the normal ETH token in a liquidity pool through a dApp such as Curve Finance or Sushiswap, which would allow liquidity providers to simultaneously accrue trading fees, liquidity mining rewards, as well as base rETH staking rewards.
 
+In traditional finance rETH would be considered a "risk free rate". It is a reference point for investors to decide if they should invest into a particular product. If the product cannot generate more return than the risk free rate than the product is not worth investing, and they are better off buying rETH. DeFi on the other hand allows you trade the risk free rate because you can trade rETH in the free market. 
+
+Going back to the traditional finance government bond example in the previous section. This would be like having the ability to trade your government bond for a piece of art. This is obviously not possible in tradititional finance. But in Defi this is absolutely possible! 
+
 ~~Any LP APY would have to be at the bare minimum as much as the base staking rewards and with incentives could even be multiples of what you would otherwise get running an Ethereum validator.~~ (Idk what this is trying to say)
 
 ### Lending Protocols (Enabling Max Degeneracy) <a name="lendingProtocols"></a>
